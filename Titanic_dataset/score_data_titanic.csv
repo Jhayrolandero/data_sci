@@ -1,0 +1,5 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked
+892,3,"Kelly, Mr. James",male,34,0,0,7.75,Q
+893,3,"Wilkes, Mrs. Mary",female,47,1,0,7.75,S
+894,2,"Myles, Mr. Thomas",male,62,0,0,9.0,Q
+895,1,"Henriksson, Miss. Anna",female,30,0,0,10.5,S
